@@ -1,0 +1,27 @@
+{
+  "name": "bilibili-video-exporter",
+  "version": "1.0.0",
+  "description": "一键导出B站UP主的视频列表到CSV文件",
+  "main": "src/bilibili_video_exporter.user.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/bilibili-video-exporter.git"
+  },
+  "keywords": [
+    "bilibili",
+    "video",
+    "export",
+    "csv",
+    "tampermonkey",
+    "userscript"
+  ],
+  "author": "Cool灬浩 <https://space.bilibili.com/228962838>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/your-username/bilibili-video-exporter/issues"
+  },
+  "homepage": "https://github.com/your-username/bilibili-video-exporter#readme"
+}
