@@ -1,25 +1,27 @@
 # 开发文档
 
-## 项目结构
+## 项目结构与文档分工
 
 ```
-bilibili-video-exporter/
-├── src/                          # 源代码目录
-│   ├── bilibili_video_exporter.user.js   # Tampermonkey脚本
-│   └── bilibili_export_console.js        # 控制台脚本
-├── docs/                         # 文档目录
-│   ├── USAGE.md                 # 使用文档
-│   ├── FAQ.md                   # 常见问题
-│   └── images/                  # 图片资源
-├── .github/                      # GitHub配置
-├── README.md                     # 英文README
-├── README.zh-CN.md              # 中文README
-├── CHANGELOG.md                 # 更新日志
-├── CONTRIBUTING.md              # 贡献指南
-├── LICENSE                      # 开源协议
-├── .gitignore                   # Git忽略文件
-└── package.json                 # 项目配置
+.
+├─ README.md            # 主 README（中文）
+├─ README.en.md         # 英文 README
+├─ CHANGELOG.md         # 更新日志
+├─ CONTRIBUTING.md      # 贡献指南
+├─ src/                 # 源码（Tampermonkey & 控制台脚本）
+├─ docs/
+│  ├─ USAGE.md          # 统一的详细使用教程（含图文速览）
+│  ├─ FAQ.md            # 常见问题
+│  ├─ DEVELOPMENT.md    # 本开发文档
+│  └─ images/           # 文档图片
+└─ .github/             # GitHub 配置
 ```
+
+导航约定：
+- 用户入口：`README.md`（中文）和 `README.en.md`（英文）
+- 详细教程：`docs/USAGE.md`
+- Q&A：`docs/FAQ.md`
+- 开发/发布：本文件 `docs/DEVELOPMENT.md`
 
 ## 技术栈
 
