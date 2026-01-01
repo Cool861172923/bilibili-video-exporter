@@ -109,7 +109,7 @@
 
 如果这个工具对你有帮助，欢迎请作者喝杯奶茶：
 
-![打赏码](docs/images/打赏码.jpg)
+<img src="docs/images/打赏码.jpg" alt="打赏码" width="240">
 
 <div align="center">
 

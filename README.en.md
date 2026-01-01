@@ -102,7 +102,7 @@ For learning and communication only; do not use for commercial purposes. Use at 
 
 If this tool helps you, you can buy the author a milk tea:
 
-![Tip QR](docs/images/打赏码.jpg)
+<img src="docs/images/打赏码.jpg" alt="Tip QR" width="240">
 
 <div align="center">
 
