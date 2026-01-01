@@ -94,6 +94,10 @@ Issues and PRs are welcome!
 
 MIT, see [LICENSE](LICENSE).
 
+## Intended Use
+
+This tool is designed to help Bilibili creators collect their own video data for AI-powered analysis, summaries, and aggregations. Do not use it for improper purposes. Always comply with applicable laws and platform rules; users assume all responsibility for misuse.
+
 ## Disclaimer
 
 For learning and communication only; do not use for commercial purposes. Use at your own risk.
