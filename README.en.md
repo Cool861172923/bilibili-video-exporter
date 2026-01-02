@@ -64,13 +64,13 @@ See [usage doc](docs/USAGE.md) for details.
 | Field      | Description            | Example                                       |
 |------------|------------------------|-----------------------------------------------|
 | Index      | Video index            | 1                                             |
-| Title      | Video title            | How to use the exporter                       |
-| BV         | Unique video id        | BV1xx411c7mD                                  |
-| Link       | Full video URL         | https://www.bilibili.com/video/BV1xx411c7mD   |
-| Cover      | Cover image URL        | https://i0.hdslb.com/...                     |
-| Duration   | Video duration         | 10:23                                         |
-| Views      | Play count             | 12k                                           |
-| Published  | Publish date           | 2025-01-02                                    |
+| Title      | Video title            | 回顾过往 展望未来 AI + XR                     |
+| BV         | Unique video id        | BV1GgiFBVErV                                  |
+| Link       | Full video URL         | https://www.bilibili.com/video/BV1GgiFBVErV   |
+| Cover      | Cover image URL        | https://i2.hdslb.com/bfs/archive/4bc247e7a0...|
+| Duration   | Video duration         | 36:53                                         |
+| Views      | Play count             | 112                                           |
+| Published  | Publish date           | 2025-12-20                                    |
 
 ## Example Usage
 
