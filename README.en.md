@@ -72,6 +72,18 @@ See [usage doc](docs/USAGE.md) for details.
 | Views      | Play count             | 12k                                           |
 | Published  | Publish date           | 2025-01-02                                    |
 
+## Example Usage
+
+Example of exported CSV file format:
+
+```csv
+序号,标题,BV号,链接,封面,时长,播放量,发布时间
+1,"回顾过往 展望未来 AI + XR",BV1GgiFBVErV,"https://www.bilibili.com/video/BV1GgiFBVErV/?spm_id_from=333.1387.upload.video_card.click","https://i2.hdslb.com/bfs/archive/4bc247e7a0b7c56ef04433a346d9651f6a9f9416.jpg@672w_378h_1c.webp",36:53,112,
+2,"普通摄像头 实现虚拟汽车 手势交互 Unity MediaPipe",BV1oNqkBzEGz,"https://www.bilibili.com/video/BV1oNqkBzEGz/?spm_id_from=333.1387.upload.video_card.click","https://i2.hdslb.com/bfs/archive/736459c995d58e63551dd4ba05c94cd423649e5b.jpg@672w_378h_1c.webp",02:02,802,2025-12-20
+```
+
+The exported file can be opened directly in Excel, WPS, or other spreadsheet software for data analysis and organization.
+
 ## Docs
 
 - [Usage](docs/USAGE.md)
