@@ -64,13 +64,13 @@ See [usage doc](docs/USAGE.md) for details.
 | Field      | Description            | Example                                       |
 |------------|------------------------|-----------------------------------------------|
 | Index      | Video index            | 1                                             |
-| Title      | Video title            | 回顾过往 展望未来 AI + XR                     |
-| BV         | Unique video id        | BV1GgiFBVErV                                  |
-| Link       | Full video URL         | https://www.bilibili.com/video/BV1GgiFBVErV   |
-| Cover      | Cover image URL        | https://i2.hdslb.com/bfs/archive/4bc247e7a0...|
-| Duration   | Video duration         | 36:53                                         |
-| Views      | Play count             | 112                                           |
-| Published  | Publish date           | 2025-12-20                                    |
+| Title      | Video title            | 抓取B站数据 AI分析 开源工具                   |
+| BV         | Unique video id        | BV1wRivBFExQ                                  |
+| Link       | Full video URL         | https://www.bilibili.com/video/BV1wRivBFExQ   |
+| Cover      | Cover image URL        | https://i2.hdslb.com/bfs/archive/0c2a0100b3...|
+| Duration   | Video duration         | 10:20                                         |
+| Views      | Play count             | 12                                            |
+| Published  | Publish date           | 2026-01-03                                    |
 
 ## Example Usage
 
